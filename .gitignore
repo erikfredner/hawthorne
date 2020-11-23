@@ -1,1 +1,5 @@
-local/
+.DS_Store
+.gitignore
+.ipynb_checkpoints
+local/*
+results/*
