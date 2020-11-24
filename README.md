@@ -1,2 +1,2 @@
 # Modeling Hawthorne
-Data and analyses for an essay submitted to *The Nathaniel Hawthorne Review*. Derived from work first presented at the MLA 2020 panel on digital humanities approaches to Hawthorne.
+Code for an essay submitted to *The Nathaniel Hawthorne Review* that expands on work first presented at [MLA 2020](https://mla2020.zerista.com/event/member/629570).
