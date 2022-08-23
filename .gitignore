@@ -1,5 +1,6 @@
 .DS_Store
 .gitignore
-.ipynb_checkpoints
+.ipynb_checkpoints/*
 local/*
 results/*
+resubmission/*
